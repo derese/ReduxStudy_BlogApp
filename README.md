@@ -10,7 +10,7 @@ There are two methods for getting started with this repo.
 Checkout this repo, install depdencies, then start the gulp process with the following:
 
 ```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
+	> git clone https://github.com/derese/ReduxStudy_BlogApp.git
 	> cd ReduxSimpleStarter
 	> npm install
 	> npm start
